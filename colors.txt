@@ -1,0 +1,8 @@
+--mainColor: #4070f4;
+--secondaryColor: #018191;
+--mainBg: #033f63;
+--secondaryBg: #307351;
+--txtColor: #333333;
+--lightTxtColor: #777777;
+--bgColor: #e4e9f7;
+--whiteColor: #ffffff;
